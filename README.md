@@ -58,6 +58,7 @@ I create modern web interfaces and optimize workflows. I love clean code and eff
 ## 🚀 **Currently Learning:**
 - ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ## 📍 **About Me:**
@@ -98,4 +99,5 @@ I create modern web interfaces and optimize workflows. I love clean code and eff
 ⭐ *If you like my projects, don't forget to give them a star!*
 
 </div>
+
 
