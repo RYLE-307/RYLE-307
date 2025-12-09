@@ -80,8 +80,11 @@ I create modern web interfaces and optimize workflows. I love clean code and eff
 <div align="left">
 
 [![Telegram: @OkPonial](https://img.shields.io/badge/Telegram-@OkPonial-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OkPonial)&nbsp;&nbsp;&nbsp;&nbsp;
+
 [![VK: @ryle_203](https://img.shields.io/badge/VK-@ryle_203-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/ryle_203)&nbsp;&nbsp;&nbsp;&nbsp;
+
 [![GitHub: RYLE-307](https://img.shields.io/badge/GitHub-RYLE_307-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RYLE-307)&nbsp;&nbsp;&nbsp;&nbsp;
+
 [![Email: makskozlov140@gmail.com](https://img.shields.io/badge/Email-makskozlov140@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:makskozlov140@gmail.com)
 
 </div>
