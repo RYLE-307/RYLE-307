@@ -35,14 +35,8 @@
 ![GitHub Stars](https://img.shields.io/github/stars/RYLE-307?label=Stars&style=social)
 
 **Репозитории:** ![Repos](https://badges.pufler.dev/repos/RYLE-307)
-**Контрибьюшены:** ![Contributions](https://badges.pufler.dev/contributions/RYLE-307?size=md)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RYLE-307&theme=dark)](https://git.io/streak-stats)
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RYLE-307&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RYLE-307&layout=compact&theme=radical)
 
 ## 🐧 **Администрирование Linux:**
 
@@ -105,3 +99,4 @@
 ⭐ *Если вам понравились мои проекты, не забудьте поставить звездочку!*
 
 </div>
+
