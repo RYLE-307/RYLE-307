@@ -56,9 +56,9 @@ I create modern web interfaces and optimize workflows. I love clean code and eff
 - ✅ **Continuous learning and skill improvement**
 
 ## 🚀 **Currently Learning:**
-- 🧠 **Rust**
-- ⚡ **Next.js and modern frontend**
-- 🐧 **Advanced Linux administration**
+- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ## 📍 **About Me:**
 - **Name:** Maksim Kozlov
@@ -98,3 +98,4 @@ I create modern web interfaces and optimize workflows. I love clean code and eff
 ⭐ *If you like my projects, don't forget to give them a star!*
 
 </div>
+
