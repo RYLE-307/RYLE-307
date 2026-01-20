@@ -33,7 +33,7 @@ I create modern web interfaces and optimize workflows. I love clean code and eff
 ![GitHub Followers](https://img.shields.io/github/followers/RYLE-307?label=Follow&style=social)
 ![GitHub Stars](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-**Repositories:** ![Repos](https://badges.pufler.dev/repos/RYLE-307)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RYLE-307&theme=dark)](https://git.io/streak-stats)
 
@@ -107,6 +107,7 @@ I create modern web interfaces and optimize workflows. I love clean code and eff
 ⭐ *If you like my projects, don't forget to give them a star!*
 
 </div>
+
 
 
 
