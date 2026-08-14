@@ -215,13 +215,8 @@ Currently focusing on expanding my DevOps and infrastructure automation skills.
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RYLE-307&show_icons=true&theme=github_dark&hide_border=true" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=RYLE-307&theme=github-dark-blue&hide_border=true" />
-
+  <img src="https://img.shields.io/github/followers/RYLE-307?style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=RYLE-307&style=for-the-badge&color=blue" />
 </p>
 
 ---
