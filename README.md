@@ -226,10 +226,10 @@ Currently focusing on expanding my DevOps and infrastructure automation skills.
 
 <p align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@OkPonial-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OkPonial)
-[![VK](https://img.shields.io/badge/VK-ryle__203-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/ryle_203)
-[![GitHub](https://img.shields.io/badge/GitHub-RYLE--307-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RYLE-307)
-[![Email](https://img.shields.io/badge/Email-makskozlov140%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:makskozlov140@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@OkPonial-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OkPonial)<br>
+[![VK](https://img.shields.io/badge/VK-ryle__203-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/ryle_203)<br>
+[![GitHub](https://img.shields.io/badge/GitHub-RYLE--307-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RYLE-307)<br>
+[![Email](https://img.shields.io/badge/Email-makskozlov140%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:makskozlov140@gmail.com)<br>
 
 </p>
 
