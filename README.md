@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maksim Kozlov</h1>
 
 <h3 align="center">
-System Administrator • DevOps Engineer in Progress
+System Administrator • DevOps Engineer 
 </h3>
 
 <p align="center">
